@@ -1,2 +1,2 @@
 # Quote-Generator
-Link:- 
+Link:- https://noobnikki.github.io/Random-Quote-Generator/
